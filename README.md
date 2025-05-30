@@ -30,5 +30,7 @@ Olá, meu nome é Matheus e estou cursando Ciência da Computação<br>na Univer
 ---
 [![](https://visitcount.itsvg.in/api?id=matheuspontes01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/matheuspontes01/matheuspontes01/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/matheuspontes01/matheuspontes01/output/snake.svg" alt="Snake animation" />
