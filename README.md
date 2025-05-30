@@ -1,6 +1,13 @@
-
 # 💫 About Me:
-Olá, meu nome é Matheus e estou cursando Ciência da Computação<br>na Universidade Federal do Tocantins (UFT).<br><br>Hi, my name is Matheus and i'm studying Computer Science at the Federal<br>University of Tocantins (UFT).
+Português:<br>
+Olá! Me chamo Matheus, sou estudante de Ciência da Computação na Universidade Federal do Tocantins (UFT) e atualmente estou no 3º período. Tenho grande interesse pela área de Engenharia de Software e estou sempre em busca de aprender mais sobre desenvolvimento, boas práticas de programação e soluções eficientes para problemas do mundo real.<br>
+
+Aqui no GitHub você encontrará meus projetos acadêmicos, estudos pessoais e experimentos com diferentes tecnologias. Meu objetivo é me desenvolver como profissional e contribuir com projetos que façam a diferença.<br>
+
+English:<br>
+Hi! My name is Matheus, I'm a Computer Science student at the Federal University of Tocantins (UFT), currently in my third semester. I'm passionate about Software Engineering and always looking to improve my skills in programming, clean code practices, and building efficient solutions to real-world problems.<br>
+
+On my GitHub, you'll find academic projects, personal studies, and experiments with different technologies. My goal is to grow as a software professional and contribute to meaningful projects.
 
 
 # 💻 Tech Stack:
@@ -16,21 +23,25 @@ Olá, meu nome é Matheus e estou cursando Ciência da Computação<br>na Univer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-# Connect with me!
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheuspontes01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:matheus.spontes0406@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheuspontes01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuspontes01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+# 📞 Connect with me!
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheuspontes01/" target="_blank" style="outline: none !important;
+    box-shadow: none !important;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  
+  <a href="mailto:matheus.spontes0406@gmail.com" target="_blank" style="outline: none !important;
+    box-shadow: none !important;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
