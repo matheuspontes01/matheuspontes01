@@ -21,9 +21,6 @@ Olá, meu nome é Matheus e estou cursando Ciência da Computação<br>na Univer
 ![](https://nirzak-streak-stats.vercel.app/?user=matheuspontes01&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspontes01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=matheuspontes01&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
