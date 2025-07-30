@@ -1,11 +1,11 @@
 # 💫 About Me:
 Português:<br>
-Olá! Me chamo Matheus, sou estudante de Ciência da Computação na Universidade Federal do Tocantins (UFT) e atualmente estou no 3º período. Tenho grande interesse pela área de Engenharia de Software e estou sempre em busca de aprender mais sobre desenvolvimento, boas práticas de programação e soluções eficientes para problemas do mundo real.<br>
+Olá! Me chamo Matheus, sou estudante de Ciência da Computação na Universidade Federal do Tocantins (UFT) e atualmente estou no 4º período. Tenho grande interesse pela área de Engenharia de Software e estou sempre em busca de aprender mais sobre desenvolvimento, boas práticas de programação e soluções eficientes para problemas do mundo real.<br>
 
 Aqui no GitHub você encontrará meus projetos acadêmicos, estudos pessoais e experimentos com diferentes tecnologias. Meu objetivo é me desenvolver como profissional e contribuir com projetos que façam a diferença.<br>
 
 English:<br>
-Hi! My name is Matheus, I'm a Computer Science student at the Federal University of Tocantins (UFT), currently in my third semester. I'm passionate about Software Engineering and always looking to improve my skills in programming, clean code practices, and building efficient solutions to real-world problems.<br>
+Hi! My name is Matheus, I'm a Computer Science student at the Federal University of Tocantins (UFT), currently in my fourth semester. I'm passionate about Software Engineering and always looking to improve my skills in programming, clean code practices, and building efficient solutions to real-world problems.<br>
 
 On my GitHub, you'll find academic projects, personal studies, and experiments with different technologies. My goal is to grow as a software professional and contribute to meaningful projects.
 
