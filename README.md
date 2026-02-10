@@ -11,7 +11,7 @@ On my GitHub, you'll find academic projects, personal studies, and experiments w
 
 
 # 💻 Tech Stack:
-<p align="left"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </p>
 
 
 # 📞 Connect with me!
